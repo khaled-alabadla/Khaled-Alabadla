@@ -14,11 +14,11 @@
 </p>
 
 
-- 💻 &nbsp;<strong>Software Engineer</strong> specialized in <strong>Laravel & Vue.js</strong>
-- 🌍 &nbsp;Based in <strong>Palestine</strong>
-- 🎓 &nbsp;BSc in <strong>Software Engineering</strong> — <strong>GPA 93.59%</strong> (Rank <strong>1st</strong>)
-- 🚀 &nbsp;Experienced in <strong>APIs, Databases, and Full-Stack Web Applications</strong>
-- 🤝 &nbsp;Connect with me on <strong>[LinkedIn]</strong>
+- &nbsp;<strong>Software Engineer</strong> specialized in <strong>Laravel & Vue.js</strong>
+- &nbsp;Based in <strong>Palestine</strong>
+- &nbsp;BSc in <strong>Software Engineering</strong> — <strong>GPA 93.59%</strong> (Rank <strong>1st</strong>)
+- &nbsp;Experienced in <strong>APIs, Databases, and Full-Stack Web Applications</strong>
+- &nbsp;Connect with me on <strong>[LinkedIn]</strong>
 
 <h2 align="left" id="khaled-tech">💻 Tech Stack</h2>
 
@@ -70,12 +70,12 @@
   </tr>
 </table>
 
-<h2 align="left">🧠 About My Work</h2>
+<h2 align="left">About My Work</h2>
 
-- 🛒 <strong>Developing high-performance e-commerce platforms</strong> with exceptional user experience
-- 🧩 <strong>Building modern web applications</strong> using <strong>Laravel & Vue.js</strong>
-- 🗄️ <strong>Designing and managing databases</strong> with advanced and complex queries
-- 🔗 <strong>Developing and integrating RESTful APIs</strong> to connect systems and enable seamless interaction
+- <strong>Developing high-performance e-commerce platforms</strong> with exceptional user experience
+- <strong>Building modern web applications</strong> using <strong>Laravel & Vue.js</strong>
+- <strong>Designing and managing databases</strong> with advanced and complex queries
+- <strong>Developing and integrating RESTful APIs</strong> to connect systems and enable seamless interaction
 
 <!-- links -->
 
