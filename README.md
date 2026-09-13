@@ -1,5 +1,5 @@
 <h1 align="left" id="khaled-title">👋 Hello! I'm <strong>Khaled Alabadla</strong></h1>
-<h3 align="left"><strong>Software Engineer</strong> | <strong>PHP Laravel Developer</strong> | <strong>Vue.js Developer</strong></h3>
+<h3 align="left"><strong>Software Engineer</strong> | <strong>Full Stack Developer (PHP Laravel & Django)</strong></strong></h3>
 
 <p align="left">
   <a href="https://khaled-esam.vercel.app/" target="_blank" rel="noopener noreferrer">
